@@ -128,15 +128,6 @@ export const data = {
   ],
   android: [
     {
-      name: "Satyam Shrivastava",
-      avatar: "/images/Satyam.jpeg",
-      description:
-        "Competitive Programmes , Android Developers, Full stack web developers",
-      role: "Member",
-      linkedinUrl: "https://www.linkedin.com/in/satyam-srivastava-coder",
-      githubUrl: "https://github.com/lieftsatyamShrivastava",
-    },
-    {
       name: "Mohammad Aadil",
       avatar: "/images/Adil.jpeg",
       description:
@@ -156,6 +147,15 @@ export const data = {
       githubUrl: "https://www.github.com/Sachin-Agarwal1",
     },
     {
+      name: "Satyam Shrivastava",
+      avatar: "/images/Satyam.jpeg",
+      description:
+        "Competitive Programmes , Android Developers, Full stack web developers",
+      role: "Member",
+      linkedinUrl: "https://www.linkedin.com/in/satyam-srivastava-coder",
+      githubUrl: "https://github.com/lieftsatyamShrivastava",
+    },
+    {
       name: "Sunidhi",
       avatar: "/images/Sunidhi.jpeg",
       description:
@@ -166,15 +166,6 @@ export const data = {
     },
   ],
   competitive: [
-    {
-      name: "Satyam Shrivastava",
-      avatar: "/images/Satyam.jpeg",
-      description:
-        "Competitive Programmes , Android Developers, Full stack web developers",
-      role: "Member",
-      linkedinUrl: "https://www.linkedin.com/in/satyam-srivastava-coder",
-      githubUrl: "https://github.com/lieftsatyamShrivastava",
-    },
     {
       name: "Aman Jha",
       avatar: "/images/Aman.jpeg",
@@ -192,6 +183,15 @@ export const data = {
       role: "Member",
       linkedinUrl: "https://www.linkedin.com/in/anurag-sinha-b76029221",
       githubUrl: "https://www.github.com/Anurag945",
+    },
+    {
+      name: "Satyam Shrivastava",
+      avatar: "/images/Satyam.jpeg",
+      description:
+        "Competitive Programmes , Android Developers, Full stack web developers",
+      role: "Member",
+      linkedinUrl: "https://www.linkedin.com/in/satyam-srivastava-coder",
+      githubUrl: "https://github.com/lieftsatyamShrivastava",
     },
     {
       name: "Anurag Singh Chauhan",

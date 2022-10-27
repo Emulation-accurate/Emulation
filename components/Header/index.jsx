@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <div className="lg:p-32 md:px-16 md:py-24 sm:px-14 sm:py-32 px-6 py-56 relative after:inset-0 after:z-0 after:bg-cover after:bg-bottom after:bg-no-repeat after:bg-hero-bg after:absolute mb-16  max-w-full mx-auto text-center transition-all duration-500">
       <div className="space-y-8 relative z-20 max-w-2xl sm:max-w-full">
-        <h1 className="lg:text-8xl md:text-6xl md:max-w-5xl sm:text-5xl sm:max-w-3xl max-w-xl text-6xl mx-auto tracking-tighter text-white font-black text-center">
+        <h1 className="lg:text-8xl md:text-6xl md:max-w-5xl sm:text-5xl sm:max-w-3xl max-w-xl text-[4.2rem] leading-[4.2rem] mx-auto tracking-tighter text-white font-black text-center">
           Technical Club for Programmers of AIMT.
         </h1>
         <p className="text-center max-w-lg sm:max-w-3xl mx-auto text-base text-slate-400 sm:text-sm md:text-base lg:text-lg">

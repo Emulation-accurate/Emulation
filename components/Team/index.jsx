@@ -6,7 +6,7 @@ const Team = () => {
   return (
     <div className="relative after:inset-0 after:z-0  after:bg-center after:bg-no-repeat after:bg-team-bg after:absolute py-32">
       <div className="relative z-20 max-w-5xl px-10 xl:px-0 mx-auto space-y-10">
-        <h1 className="text-white text-center text-6xl font-bold tracking-tight">
+        <h1 className="text-white text-center sm:text-6xl text-5xl font-bold tracking-tight">
           “Meet the team of Emulation”
         </h1>
 
