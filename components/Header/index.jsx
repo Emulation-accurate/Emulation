@@ -6,9 +6,10 @@ const Header = () => {
           Technical Club for Programmers of AIMT.
         </h1>
         <p className="text-center max-w-lg sm:max-w-3xl mx-auto text-base text-slate-400 sm:text-sm md:text-base lg:text-lg">
-          Emulation is being successfully operated by the students of btech
-          computer science. We also hire skillful programmers to our club and
-          give them proper mentorship.
+          A collaborative way of incrementing and boosting your programming
+          skills to a whole new level by working with similar-minded geeks. Get
+          mentorship and guidance related to hackathons, project building, and
+          your doubts.
         </p>
         <div className="space-x-6">
           <a

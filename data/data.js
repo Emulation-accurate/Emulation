@@ -194,6 +194,15 @@ export const data = {
       githubUrl: "https://www.github.com/Anurag945",
     },
     {
+      name: "Anurag Singh Chauhan",
+      avatar: "/images/AnuragS.jpeg",
+      description:
+        "Learning DSA || On the road of full stack web developer || C , C++ , javascript || coder",
+      role: "Club Registration Head",
+      linkedinUrl: "https://www.linkedin.com/in/anurag-singh-chauhan-0902421b1",
+      githubUrl: "https://www.github.com/anuragchauhan766",
+    },
+    {
       name: "Shivam Kumari",
       avatar: "/images/Shivam.jpeg",
       description: "Interested in web developement current learning DSA",
@@ -201,6 +210,14 @@ export const data = {
       linkedinUrl:
         "https://www.linkedin.com/in/shivam-singh-shivam-singh-ab1b71233",
       githubUrl: "",
+    },
+    {
+      name: "Sumit Kumar",
+      avatar: "/images/Sumit.jpeg",
+      description: "Currently learning Web Development and DSA.",
+      role: "Member",
+      linkedinUrl: "https://www.linkedin.com/in/sumit-kanth-057873228",
+      githubUrl: "https://github.com/sumitKanth",
     },
   ],
 };

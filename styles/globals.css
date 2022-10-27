@@ -4,6 +4,11 @@
 @tailwind components;
 @tailwind utilities;
 
+::selection {
+  color: #fff;
+  background: #0070f3;
+}
+
 body {
   font-family: "Inter", sans-serif !important;
   background-color: #0b1121 !important;
